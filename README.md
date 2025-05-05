@@ -2,6 +2,12 @@
 
 A java implementation of a Lexer and a Recursive Descent Parser for a custom Language 
 
+ --------------------------**HOW TO USE**---------------------------------  
+1. Run the `FinalProject.java` file
+2. Enter your code in the input text area
+3. Click the "Run" button
+4. View the tokenized output and parse results in the output area
+
  -----------------------**LEXICAL ANAYLSIS(Lexer.java)**--------------------------
 - Tokenizes input code into 
 - Handles comments (Single-Line with '//')
@@ -52,9 +58,6 @@ y = x + 5;
 end_if 
 end_if 
 end_program 
-
- --------------------------**HOW TO USE**---------------------------------  
-1. Run the `FinalProject.java` file
-2. Enter your code in the input text area
-3. Click the "Run" button
-4. View the tokenized output and parse results in the output area
+```
+-------------**AUTHOR**------------
+Caleb Zeringue @Yeleb https://github.com/Yeleb
